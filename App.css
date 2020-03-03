@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background-color: black;
+  color: white;
+}
+
+.nav-links {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.link-style {
+  color: white;
+}
+
+body {
+  background-color: wheat;
+}
+
+.container {
+  background-color: #fff;
+  width: 460px;
+  margin: 0 auto;
+  padding: 30px 20px;
+}
+
+.quote {
+  font-style: italic;
+}
